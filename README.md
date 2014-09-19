@@ -1,4 +1,5 @@
 chesshub
 ========
 
-chess php implementation
+Chess implementation in PHP
+
